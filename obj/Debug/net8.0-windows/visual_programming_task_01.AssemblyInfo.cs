@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("visual_programming_task_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8c4849eef13be042ada5094e3b742f5fd5fe07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de3722eaeaa8210e31845043f35d438af0cddea")]
 [assembly: System.Reflection.AssemblyProductAttribute("visual_programming_task_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("visual_programming_task_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
