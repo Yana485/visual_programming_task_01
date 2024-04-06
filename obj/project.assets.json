@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\desktop\\Костенко 3 курс\\visual_programming_task_01\\visual_programming_task_01.csproj",
+      "projectUniqueName": "C:\\Users\\Yana\\Source\\Repos\\visual_programming_task_01\\visual_programming_task_01.csproj",
       "projectName": "visual_programming_task_01",
-      "projectPath": "D:\\desktop\\Костенко 3 курс\\visual_programming_task_01\\visual_programming_task_01.csproj",
+      "projectPath": "C:\\Users\\Yana\\Source\\Repos\\visual_programming_task_01\\visual_programming_task_01.csproj",
       "packagesPath": "C:\\Users\\Yana\\.nuget\\packages\\",
-      "outputPath": "D:\\desktop\\Костенко 3 курс\\visual_programming_task_01\\obj\\",
+      "outputPath": "C:\\Users\\Yana\\Source\\Repos\\visual_programming_task_01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

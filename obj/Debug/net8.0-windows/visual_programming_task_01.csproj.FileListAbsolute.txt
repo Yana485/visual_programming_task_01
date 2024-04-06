@@ -19,3 +19,24 @@ D:\desktop\Костенко 3 курс\visual_programming_task_01\obj\Debug\net8
 D:\desktop\Костенко 3 курс\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.pdb
 D:\desktop\Костенко 3 курс\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.genruntimeconfig.cache
 D:\desktop\Костенко 3 курс\visual_programming_task_01\obj\Debug\net8.0-windows\ref\visual_programming_task_01.dll
+C:\Users\Yana\Source\Repos\visual_programming_task_01\bin\Debug\net8.0-windows\visual_programming_task_01.exe
+C:\Users\Yana\Source\Repos\visual_programming_task_01\bin\Debug\net8.0-windows\visual_programming_task_01.deps.json
+C:\Users\Yana\Source\Repos\visual_programming_task_01\bin\Debug\net8.0-windows\visual_programming_task_01.runtimeconfig.json
+C:\Users\Yana\Source\Repos\visual_programming_task_01\bin\Debug\net8.0-windows\visual_programming_task_01.dll
+C:\Users\Yana\Source\Repos\visual_programming_task_01\bin\Debug\net8.0-windows\visual_programming_task_01.pdb
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01_MarkupCompile.cache
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01_MarkupCompile.lref
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.g.resources
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.AssemblyInfoInputs.cache
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.AssemblyInfo.cs
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.sourcelink.json
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.dll
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\refint\visual_programming_task_01.dll
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.pdb
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\visual_programming_task_01.genruntimeconfig.cache
+C:\Users\Yana\Source\Repos\visual_programming_task_01\obj\Debug\net8.0-windows\ref\visual_programming_task_01.dll
